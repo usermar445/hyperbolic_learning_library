@@ -11,4 +11,4 @@ docs/build
 docs/source/_autosummary
 docs/source/tutorials
 tests/data
-
+.DS_store
